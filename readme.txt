@@ -55,3 +55,5 @@ If you want quit or exit the program please use "bye" or "exit" or "good bye"
 Reference for corpus:
 Website url:http://botartisanz.com/blog/create-your-eliza-chatbot-in-20-minutes-with-regular-expressions-day-6
 Author: Jubin Jose
+
+Copyright (c) 2018 Vijayasaradhi Muthavarapu, Nikhil Reddy Pathuri, Dilip Molugu
